@@ -1,0 +1,9 @@
+{
+  "name": "Fitness Computer Vision Studio",
+  "short_name": "CV Fitness",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0B0D17",
+  "theme_color": "#FF5C38",
+  "description": "Standalone Computer Vision for Fitness — Real-time MediaPipe Pose Detection, Rep Counting, Joint Angle Safety, & Form Feedback Studio."
+}
